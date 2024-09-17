@@ -1,2 +1,0 @@
-This project is my first html project that I found on YouTube and follow. The link to the instructions video is here https://youtu.be/G3e-cpL7ofc?si=UNi-NRUpS1yF8Unz 
-The project is to remake a youtube website on https://supersimple.dev/exercises/youtube 
